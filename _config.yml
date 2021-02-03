@@ -1,14 +1,14 @@
 theme: minima
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: My blog and porfolio
+author: Guillem Roca
+email: guillemroc@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is my the blog and porfolio of projects I've worked 
+  and experimente with. There will be tips and tricks of Android
+  and random thoughts as well.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: 6uillemRoca
+github_username:  GuillemRoca
 
 show_excerpts: true # set to false to remove excerpts on the homepage
